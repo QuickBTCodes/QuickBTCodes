@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @QuickBTCodes
-- 👀 I’m interested in Crypto
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on friendship
+//Silencio
+A free silent miner capable of mining ETC, RVN, XMR, RTM 
 
-<!---
-QuickBTCodes/QuickBTCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Pre-Compiled: https://github.com/QuickBTCodes/QuickBTCodes/main/releases
+
+Author
+- MrAsia
+
+Disclaimer
+I, the creator, am not responsible for any actions, and or damages, caused by this software.
+You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only. This software's main purpose is NOT to be used maliciously, or on any system that you do not own, or have the right to use. By using this software, you automatically agree to the above.
